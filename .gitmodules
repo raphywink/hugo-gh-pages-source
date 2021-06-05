@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "raphywink.github.io"]
+	path = public
+	url = https://github.com/raphywink/raphywink.github.io.git
+[submodule "themes/portio"]
+	path = themes/portio
+	url = https://github.com/StaticMania/portio-hugo.git
